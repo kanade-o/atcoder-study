@@ -6,8 +6,10 @@ AtCoder練習記録2
 ```
 pip install -r requirements.txt
 ```
+```
 npm install -g atcoder-cli
 ```
+
 インストール確認
 ```
 acc -h
@@ -21,6 +23,6 @@ acc check-oj
 
 ログイン
 ```
-
-
+acc login
+oj login https://beta.atcoder.jp/
 ```
